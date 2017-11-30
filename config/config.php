@@ -8,6 +8,6 @@ $company_name = "My Company";
 $host = "127.0.0.1";
 $database = "database";
 $username = "root";
-$password = "pswd";
+$password = "";
 
 ?>
